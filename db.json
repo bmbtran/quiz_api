@@ -1,0 +1,671 @@
+{
+    "courses": [
+        {
+            "id":0,
+            "name": "UX/UI Design",
+            "duration": 1.5,
+            "rating": 4.9,
+            "category": "Computer",
+            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "quiz": [
+                {
+                    "question": "Which of the following are examples of UI? ",
+                    "options": ["Key (for opening door)", "TV Remote", "Button (in an app)", "All of the above"],
+                    "answer": "All of the above"
+                },
+                
+                {
+                    "question": "What is the purpose of wireframing in UI/UX design?",
+                    "options": ["To create a visual representation of the final product", "To test the functionality of the user interface", "To define the layout and structure of a design", "None of the above"],
+                    "answer": "To define the layout and structure of a design"
+                },
+                {
+                    "question": "What is the primary goal of user research in UI/UX design?",
+                    "options": ["To gather feedback from stakeholders", "To understand user needs and preferences", "To create visually appealing designs", "None of the above"],
+                    "answer": "To understand user needs and preferences"
+                },
+                {
+                    "question": "What is the purpose of prototyping in UI/UX design?",
+                    "options": ["To showcase design concepts to clients", "To test and validate design ideas", "To create the final visual design", "None of the above"],
+                    "answer": "To test and validate design ideas"
+                    },
+                    {
+                    "question": "What is the role of typography in UI/UX design?",
+                    "options": ["To add decorative elements to the design", "To enhance readability and user experience", "To create visual hierarchy", "None of the above"],
+                    "answer": "To enhance readability and user experience"
+                    },
+                    {
+                    "question": "What is the purpose of user personas in UI/UX design?",
+                    "options": ["To represent fictional users", "To understand user demographics", "To create targeted design solutions", "All of the above"],
+                    "answer": "To create targeted design solutions"
+                    },
+                    {
+                    "question": "What is the key principle behind responsive design in UI/UX?",
+                    "options": ["Consistency across different devices", "Incorporating trendy design elements", "Using large images and videos", "None of the above"],
+                    "answer": "Consistency across different devices"
+                    },
+                    {
+                    "question": "What is the primary goal of usability testing in UI/UX design?",
+                    "options": ["To evaluate the aesthetics of the design", "To identify potential usability issues", "To measure the loading speed of the website", "None of the above"],
+                    "answer": "To identify potential usability issues"
+                    },
+                    {
+                    "question": "What is the purpose of color theory in UI/UX design?",
+                    "options": ["To create visually appealing designs", "To establish a consistent color palette", "To evoke emotions and communicate meaning", "All of the above"],
+                    "answer": "All of the above"
+                    },
+                    {
+                    "question": "What is the significance of the F-pattern in UI/UX design?",
+                    "options": ["It represents the flow of user attention", "It is a popular design trend", "It is used for creating animations", "None of the above"],
+                    "answer": "It represents the flow of user attention"
+                    }
+                    ]
+                    
+        },
+        {
+            "id":1,
+            "name": "Salesforce Admin",
+            "duration": 0.5,
+            "rating": 4.6,
+            "category": "Computer",
+            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "quiz": [
+                {
+                    "question": "What is the role of a Salesforce admin?",
+                    "options": [
+                    "Managing customer relationships",
+                    "Creating and managing user accounts",
+                    "Designing user interfaces",
+                    "None of the above"
+                    ],
+                    "answer": "Creating and managing user accounts"
+                    },
+                    {
+                    "question": "What is the purpose of Salesforce reports and dashboards?",
+                    "options": [
+                    "To track sales performance",
+                    "To manage inventory",
+                    "To design marketing campaigns",
+                    "None of the above"
+                    ],
+                    "answer": "To track sales performance"
+                    },
+                    {
+                    "question": "What is the role of data validation rules in Salesforce?",
+                    "options": [
+                    "To enforce data consistency and accuracy",
+                    "To automate workflow processes",
+                    "To create custom objects",
+                    "None of the above"
+                    ],
+                    "answer": "To enforce data consistency and accuracy"
+                    },
+                    {
+                    "question": "What is the purpose of Salesforce workflows?",
+                    "options": [
+                    "To automate repetitive tasks",
+                    "To manage user access permissions",
+                    "To optimize database performance",
+                    "None of the above"
+                    ],
+                    "answer": "To automate repetitive tasks"
+                    },
+                    {
+                    "question": "What is the significance of Salesforce Lightning Experience?",
+                    "options": [
+                    "Improved user interface and navigation",
+                    "Enhanced data security",
+                    "Integration with third-party apps",
+                    "All of the above"
+                    ],
+                    "answer": "All of the above"
+                    }
+                    ]
+                    },
+        {
+            "id":2,
+            "name": "Physics",
+            "duration": 1,
+            "rating": 4.4,
+            "category": "Science",
+            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "quiz": [
+                {
+                    "question": "What is the study of motion and forces called?",
+                    "options": [
+                    "Thermodynamics",
+                    "Electricity and Magnetism",
+                    "Kinematics",
+                    "None of the above"
+                    ],
+                    "answer": "Kinematics"
+                    },
+                    {
+                    "question": "What is the unit of measurement for electric current?",
+                    "options": [
+                    "Volt",
+                    "Ampere",
+                    "Ohm",
+                    "Watt"
+                    ],
+                    "answer": "Ampere"
+                    },
+                    {
+                    "question": "What is the law of conservation of energy?",
+                    "options": [
+                    "Energy cannot be created or destroyed",
+                    "Energy always flows from hot to cold objects",
+                    "The total energy of an isolated system remains constant",
+                    "None of the above"
+                    ],
+                    "answer": "The total energy of an isolated system remains constant"
+                    },
+                    {
+                    "question": "What is the relationship between force, mass, and acceleration?",
+                    "options": [
+                    "Force = mass * acceleration",                
+                    "Force = mass ÷ acceleration",
+                    "Force = mass + acceleration",
+                    "None of the above"
+                    ],
+                    "answer": "Force = mass * acceleration"
+                    },
+                    {
+                    "question": "What is the principle behind electromagnetic induction?",
+                    "options": [
+                    "Energy cannot be created or destroyed",
+                    "Opposite charges attract",
+                    "A changing magnetic field induces an electric current",
+                    "None of the above"
+                    ],
+                    "answer": "A changing magnetic field induces an electric current"
+                }
+                ]
+        },
+        {
+            "id":3,
+            "name": "Environmental Science",
+            "duration": 2,
+            "rating": 4.0,
+            "category": "Science",
+            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "quiz": [
+                {
+                    "question": "What is the primary cause of global warming?",
+                    "options": [
+                    "Deforestation",
+                    "Industrial pollution",
+                    "Greenhouse gas emissions",
+                    "None of the above"
+                    ],
+                    "answer": "Greenhouse gas emissions"
+                    },
+                    {
+                    "question": "What is the purpose of biodiversity conservation?",
+                    "options": [
+                    "To protect endangered species",
+                    "To promote sustainable development",
+                    "To maintain ecosystem stability",
+                    "All of the above"
+                    ],
+                    "answer": "All of the above"
+                    },
+                    {
+                    "question": "What are the major sources of water pollution?",
+                    "options": [
+                    "Agricultural runoff",
+                    "Industrial waste",
+                    "Sewage disposal",
+                    "All of the above"
+                    ],
+                    "answer": "All of the above"
+                    },
+                    {
+                    "question": "What is the concept of sustainable living?",
+                    "options": [
+                    "Reducing waste and energy consumption",
+                    "Using renewable resources",
+                    "Conserving natural habitats",
+                    "All of the above"
+                    ],
+                    "answer": "All of the above"
+                    },
+                    {
+                    "question": "What is the impact of air pollution on human health?",
+                    "options": [
+                    "Respiratory problems",
+                    "Cardiovascular diseases",
+                    "Impaired immune system",
+                    "All of the above"
+                    ],
+                    "answer": "All of the above"
+                    }
+                    ]
+        },
+        {
+            "id":4,
+            "name": "Music Theory",
+            "duration": 2,
+            "rating": 4.0,
+            "category": "Popular",
+            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "quiz": [
+                {
+                    "question": "What is the musical term for a group of three notes played together?",
+                    "options": [
+                    "Harmony",
+                    "Chord",
+                    "Melody",
+                    "None of the above"
+                    ],
+                    "answer": "Chord"
+                    },
+                    {
+                    "question": "What is the symbol for a half step in music notation?",
+                    "options": [
+                    "♯",
+                    "♭",
+                    "♮",
+                    "None of the above"
+                    ],
+                    "answer": "♯"
+                    },
+                    {
+                    "question": "What is the purpose of a time signature in sheet music?",
+                    "options": [
+                    "To indicate the tempo of the piece",
+                    "To signify the key signature",
+                    "To define the meter and rhythm",
+                    "None of the above"
+                    ],
+                    "answer": "To define the meter and rhythm"
+                    },
+                    {
+                    "question": "What is the term for a gradual increase in loudness in music?",
+                    "options": [
+                    "Crescendo",
+                    "Decrescendo",
+                    "Staccato",
+                    "None of the above"
+                    ],
+                    "answer": "Crescendo"
+                    },
+                    {
+                    "question": "What is the purpose of dynamics markings in sheet music?",
+                    "options": [
+                    "To indicate the pitch of the notes",
+                    "To specify the length of the notes",
+                    "To denote the volume or intensity of the music",
+                    "None of the above"
+                    ],
+                    "answer": "To denote the volume or intensity of the music"
+                    }
+                    ]
+        },
+        {
+            "id":5,
+            "name": "CI/CD",
+            "duration": 0.5,
+            "rating": 4.3,
+            "category": "Computer",
+            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "quiz": [
+                {
+                    "question": "What does CI/CD stand for?",
+                    "options": [
+                    "Continuous Integration/Continuous Deployment",
+                    "Centralized Integration/Coordinated Deployment",
+                    "Collaborative Integration/Consolidated Deployment",
+                    "None of the above"
+                    ],
+                    "answer": "Continuous Integration/Continuous Deployment"
+                    },
+                    {
+                    "question": "What is the goal of CI/CD in software development?",
+                    "options": [
+                    "To automate the testing and deployment processes",
+                    "To manage the source code repository",
+                    "To optimize server performance",
+                    "None of the above"
+                ]},
+                {
+                    "question": "What is the role of version control systems in CI/CD?",
+                    "options": [
+                    "To track changes to the codebase",
+                    "To automate the build process",
+                    "To monitor server performance",
+                    "None of the above"
+                    ],
+                    "answer": "To track changes to the codebase"
+                    },
+                    {
+                    "question": "What is the purpose of automated testing in CI/CD?",
+                    "options": [
+                    "To ensure code quality and identify bugs",
+                    "To manage project dependencies",
+                    "To optimize database performance",
+                    "None of the above"
+                    ],
+                    "answer": "To ensure code quality and identify bugs"
+                    },
+                    {
+                    "question": "What is the concept of continuous deployment in CI/CD?",
+                    "options": [
+                    "Automatically deploying code changes to production",
+                    "Managing development environments",
+                    "Ensuring code compatibility across different platforms",
+                    "None of the above"
+                    ],
+                    "answer": "Automatically deploying code changes to production"
+                    },
+                    {
+                    "question": "What is the significance of continuous monitoring in CI/CD?",
+                    "options": [
+                    "Identifying performance bottlenecks and issues",
+                    "Ensuring code version control",
+                    "Managing project timelines and deadlines",
+                    "None of the above"
+                    ],
+                    "answer": "Identifying performance bottlenecks and issues"
+                    }
+                    ]
+        },
+        {
+            "id":6,
+            "name": "Discrete Math",
+            "duration": 1,
+            "rating": 4.7,
+            "category": "Mathematics",
+            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "quiz": [
+                {
+                    "question": "What is the branch of mathematics that deals with discrete objects?",
+                    "options": [
+                    "Calculus",
+                    "Algebra",
+                    "Geometry",
+                    "Discrete Mathematics"
+                    ],
+                    "answer": "Discrete Mathematics"
+                    },
+                    {
+                    "question": "What is the principle of mathematical induction used for?",
+                    "options": [
+                    "To prove mathematical theorems",
+                    "To solve linear equations",
+                    "To study geometric shapes",
+                    "None of the above"
+                    ],
+                    "answer": "To prove mathematical theorems"
+                    },
+                    {
+                    "question": "What is the concept of combinatorics in discrete math?",
+                    "options": [
+                    "The study of limits and continuity",
+                    "The study of counting and arranging objects",
+                    "The study of complex numbers",
+                    "None of the above"
+                    ],
+                    "answer": "The study of counting and arranging objects"
+                    },
+                    {
+                    "question": "What is the purpose of graph theory in discrete math?",
+                    "options": [
+                    "To study trigonometric functions",
+                    "To analyze network structures",
+                    "To solve differential equations",
+                    "None of the above"
+                    ],
+                    "answer": "To analyze network structures"
+                    },
+                    {
+                    "question": "What is the concept of propositional logic in discrete math?",
+                    "options": [
+                    "The study of polynomial equations",
+                    "The study of logical statements and operators",
+                    "The study of complex numbers",
+                    "None of the above"
+                    ],
+                    "answer": "The study of logical statements and operators"
+                    }
+                    ]
+        },
+        {
+            "id":7,
+            "name": "Chemistry",
+            "duration": 1,
+            "rating": 4.7,
+            "category": "Science",
+            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "quiz": [
+                    {
+                    "question": "What is the smallest unit of an element that retains its chemical properties?",
+                    "options": [
+                    "Atom",
+                    "Molecule",
+                    "Compound",
+                    "None of the above"
+                    ],
+                    "answer": "Atom"
+                    },
+                    {
+                    "question": "What is the chemical symbol for gold?",
+                    "options": [
+                    "Au",
+                    "Ag",
+                    "G",
+                    "Au"
+                    ],
+                    "answer": "Au"
+                    },
+                    {
+                    "question": "What is the pH scale used to measure?",
+                    "options": [
+                    "Temperature",
+                    "Concentration of ions in a solution",
+                    "Pressure",
+                    "None of the above"
+                    ],
+                    "answer": "Concentration of ions in a solution"
+                    },
+                    {
+                    "question": "What is the purpose of balancing chemical equations?",
+                    "options": [
+                    "To conserve mass",
+                    "To determine the color of a compound",
+                    "To calculate molar mass",
+                    "None of the above"
+                    ],
+                    "answer": "To conserve mass"
+                    },
+                    {
+                    "question": "What is the process of converting a solid directly into a gas called?",
+                    "options": [
+                    "Sublimation",
+                    "Condensation",
+                    "Evaporation",
+                    "None of the above"
+                    ],
+                    "answer": "Sublimation"
+                    }
+                    ]
+        },
+        {
+            "id":8,
+            "name": "ReactJS",
+            "duration": 2,
+            "rating": 5,
+            "category": "Computer",
+            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "quiz": [
+                {
+                    "question": "What is ReactJS?",
+                    "options": [
+                    "A programming language",
+                    "A server-side framework",
+                    "A front-end JavaScript library",
+                    "None of the above"
+                    ],
+                    "answer": "A front-end JavaScript library"
+                    },
+                    {
+                    "question": "What is JSX in ReactJS?",
+                    "options": [
+                    "A file extension for React components",
+                    "A syntax extension for JavaScript",
+                    "A styling framework for React apps",
+                    "None of the above"
+                    ],
+                    "answer": "A syntax extension for JavaScript"
+                    },
+                    {
+                    "question": "What is the purpose of state in ReactJS?",
+                    "options": [
+                    "To store and manage component data",
+                    "To define component layout and structure",
+                    "To handle user events and interactions",
+                    "None of the above"
+                    ],
+                    "answer": "To store and manage component data"
+                    },
+                    {
+                    "question": "What is the role of props in ReactJS?",
+                    "options": [
+                    "To define component styles and themes",
+                    "To pass data between components",
+                    "To manage component lifecycle",
+                    "None of the above"
+                    ],
+                    "answer": "To pass data between components"
+                    },
+                    {
+                    "question": "What is the purpose of React Router in ReactJS?",
+                    "options": [
+                    "To handle server-side routing",
+                    "To manage component state",
+                    "To create responsive layouts",
+                    "None of the above"
+                    ],
+                    "answer": "To handle server-side routing"
+                    }
+                    ]
+        },
+        {
+            "id":9,
+            "name": "Git Basics",
+            "duration": 1,
+            "rating": 4.4,
+            "category": "Computer",
+            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "quiz": [
+                {
+                    "question": "What is Git?",
+                    "options": [
+                    "A version control system",
+                    "A programming language",
+                    "A web development framework",
+                    "None of the above"
+                    ],
+                    "answer": "A version control system"
+                    },
+                    {
+                    "question": "What is the purpose of a Git repository?",
+                    "options": [
+                    "To store and track project files and changes",
+                    "To host a website",
+                    "To manage database connections",
+                    "None of the above"
+                    ],
+                    "answer": "To store and track project files and changes"
+                    },
+                    {
+                    "question": "What is a commit in Git?",
+                    "options": [
+                    "A record of changes to the repository",
+                    "A programming language construct",
+                    "A remote server for code hosting",
+                    "None of the above"
+                    ]
+                },
+                {
+                "question": "What is the purpose of branching in Git?",
+                "options": [
+                "To create separate lines of development",
+                "To merge code changes",
+                "To optimize database performance",
+                "None of the above"
+                ],
+                "answer": "To create separate lines of development"
+                },
+                {
+                "question": "What is the command to clone a Git repository?",
+                "options": [
+                "git init",
+                "git clone",
+                "git commit",
+                "None of the above"
+                ],
+                "answer": "git clone"
+                }
+                ]
+        },
+        {
+            "id":10,
+            "name": "Firebase",
+            "duration": 1,
+            "rating": 4.9,
+            "category": "Computer",
+            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "quiz": [
+                {
+                "question": "What is Firebase?",
+                "options": [
+                "A mobile operating system",
+                "A cloud-based platform for web and mobile app development",
+                "A programming language",
+                "None of the above"
+                ],
+                "answer": "A cloud-based platform for web and mobile app development"
+                },
+                {
+                "question": "What are the key features of Firebase?",
+                "options": [
+                "Real-time database",
+                "Authentication",
+                "Cloud messaging",
+                "All of the above"
+                ],
+                "answer": "All of the above"
+                },
+                {
+                "question": "What is Firebase Authentication used for?",
+                "options": [
+                "Managing user authentication and authorization",
+                "Data storage and retrieval",
+                "Front-end UI design",
+                "None of the above"
+                ],
+                "answer": "Managing user authentication and authorization"
+                },
+                {
+                "question": "What is Firebase Cloud Firestore?",
+                "options": [
+                "A real-time NoSQL database",
+                "A cloud storage service",
+                "A cloud-based IDE",
+                "None of the above"
+                ],
+                "answer": "A real-time NoSQL database"
+                },
+                {
+                "question": "What is Firebase Cloud Messaging used for?",
+                "options": [
+                "Sending push notifications to mobile devices",
+                "Hosting web applications",
+                "Managing server-side logic",
+                "None of the above"
+                ],
+                "answer": "Sending push notifications to mobile devices"
+                }
+            ]
+}]}
