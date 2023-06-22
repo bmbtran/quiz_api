@@ -1,4 +1,6 @@
-{
+
+
+{    
     "courses": [
         {
             "id":0,
@@ -6,7 +8,7 @@
             "duration": 1.5,
             "rating": 4.9,
             "category": "Computer",
-            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "image": "./assets/ux-design.png",
             "quiz": [
                 {
                     "question": "Which of the following are examples of UI? ",
@@ -68,7 +70,7 @@
             "duration": 0.5,
             "rating": 4.6,
             "category": "Computer",
-            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "image": "./assets/salesforce.png",
             "quiz": [
                 {
                     "question": "What is the role of a Salesforce admin?",
@@ -128,7 +130,7 @@
             "duration": 1,
             "rating": 4.4,
             "category": "Science",
-            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "image": "./assets/physics.png",
             "quiz": [
                 {
                     "question": "What is the study of motion and forces called?",
@@ -188,7 +190,7 @@
             "duration": 2,
             "rating": 4.0,
             "category": "Science",
-            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "image": "./assets/ap-environmental-science.png",
             "quiz": [
                 {
                     "question": "What is the primary cause of global warming?",
@@ -248,7 +250,7 @@
             "duration": 2,
             "rating": 4.0,
             "category": "Popular",
-            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "image": "./assets/music-theory.png",
             "quiz": [
                 {
                     "question": "What is the musical term for a group of three notes played together?",
@@ -308,7 +310,7 @@
             "duration": 0.5,
             "rating": 4.3,
             "category": "Computer",
-            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "image": "./assets/cicd.svg",
             "quiz": [
                 {
                     "question": "What does CI/CD stand for?",
@@ -376,7 +378,7 @@
             "duration": 1,
             "rating": 4.7,
             "category": "Mathematics",
-            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "image": "./assets/discrete-math.png",
             "quiz": [
                 {
                     "question": "What is the branch of mathematics that deals with discrete objects?",
@@ -436,7 +438,7 @@
             "duration": 1,
             "rating": 4.7,
             "category": "Science",
-            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "image": "./assets/chemistry.png",
             "quiz": [
                     {
                     "question": "What is the smallest unit of an element that retains its chemical properties?",
@@ -496,7 +498,7 @@
             "duration": 2,
             "rating": 5,
             "category": "Computer",
-            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "image": "./assets/reactIcon.png",
             "quiz": [
                 {
                     "question": "What is ReactJS?",
@@ -556,7 +558,7 @@
             "duration": 1,
             "rating": 4.4,
             "category": "Computer",
-            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "image": "./assets/gitIcon.png",
             "quiz": [
                 {
                     "question": "What is Git?",
@@ -615,7 +617,7 @@
             "duration": 1,
             "rating": 4.9,
             "category": "Computer",
-            "image": "https://www.avodha.com/wp-content/uploads/2021/06/web-Icons-17-1-1536x1536.png",
+            "image": "./assets/firebase.png",
             "quiz": [
                 {
                 "question": "What is Firebase?",
