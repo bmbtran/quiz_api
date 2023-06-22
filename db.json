@@ -8,7 +8,7 @@
             "duration": 1.5,
             "rating": 4.9,
             "category": "Computer",
-            "image": "./assets/ux-design.png",
+            "image": "https://careers.explorebees.com/images/job/ux-design.png",
             "quiz": [
                 {
                     "question": "Which of the following are examples of UI? ",
@@ -70,7 +70,7 @@
             "duration": 0.5,
             "rating": 4.6,
             "category": "Computer",
-            "image": "./assets/salesforce.png",
+            "image": "https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png",
             "quiz": [
                 {
                     "question": "What is the role of a Salesforce admin?",
@@ -130,7 +130,7 @@
             "duration": 1,
             "rating": 4.4,
             "category": "Science",
-            "image": "./assets/physics.png",
+            "image": "https://www.geogebra.org/resource/z5nfs8qd/RAHbuYHmg6kVrufn/material-z5nfs8qd-thumb.png",
             "quiz": [
                 {
                     "question": "What is the study of motion and forces called?",
@@ -190,7 +190,7 @@
             "duration": 2,
             "rating": 4.0,
             "category": "Science",
-            "image": "./assets/ap-environmental-science.png",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f4/32/c1/f432c105-e235-48c5-aa51-a3ddbe5bfd75/source/256x256bb.jpg",
             "quiz": [
                 {
                     "question": "What is the primary cause of global warming?",
@@ -250,7 +250,7 @@
             "duration": 2,
             "rating": 4.0,
             "category": "Popular",
-            "image": "./assets/music-theory.png",
+            "image": "https://taiwebs.com/upload/icons/music-theory-companion-with-piano-guitar-icon.png",
             "quiz": [
                 {
                     "question": "What is the musical term for a group of three notes played together?",
@@ -310,7 +310,7 @@
             "duration": 0.5,
             "rating": 4.3,
             "category": "Computer",
-            "image": "./assets/cicd.svg",
+            "image": "https://uploads-ssl.webflow.com/60c912417dc3bac5c9fa2616/63b5e57aa286d27c2d561e37_github-actions%20(1).svg",
             "quiz": [
                 {
                     "question": "What does CI/CD stand for?",
@@ -378,7 +378,7 @@
             "duration": 1,
             "rating": 4.7,
             "category": "Mathematics",
-            "image": "./assets/discrete-math.png",
+            "image": "https://cdn.iconscout.com/icon/premium/png-256-thumb/discrete-mathematics-1807145-1534183.png",
             "quiz": [
                 {
                     "question": "What is the branch of mathematics that deals with discrete objects?",
@@ -438,7 +438,7 @@
             "duration": 1,
             "rating": 4.7,
             "category": "Science",
-            "image": "./assets/chemistry.png",
+            "image": "https://cdn-icons-png.flaticon.com/256/9767/9767772.png",
             "quiz": [
                     {
                     "question": "What is the smallest unit of an element that retains its chemical properties?",
@@ -498,7 +498,7 @@
             "duration": 2,
             "rating": 5,
             "category": "Computer",
-            "image": "./assets/reactIcon.png",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
             "quiz": [
                 {
                     "question": "What is ReactJS?",
@@ -558,7 +558,7 @@
             "duration": 1,
             "rating": 4.4,
             "category": "Computer",
-            "image": "./assets/gitIcon.png",
+            "image": "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
             "quiz": [
                 {
                     "question": "What is Git?",
@@ -617,7 +617,7 @@
             "duration": 1,
             "rating": 4.9,
             "category": "Computer",
-            "image": "./assets/firebase.png",
+            "image": "https://www.gstatic.com/devrel-devsite/prod/ve71f558f8fdfc41aa4dfb3d6849b3a58ae257de9fcb1864452754797dd0232f6/firebase/images/touchicon-180.png",
             "quiz": [
                 {
                 "question": "What is Firebase?",
